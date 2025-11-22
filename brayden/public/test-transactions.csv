@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_date,amount,payment_method,status,product_count,region,notes
+T001,CUST101,2025-11-15,125.50,Credit Card,Completed,1,North,Rush delivery requested
+T002,CUST102,2025-11-14,89.99,PayPal,Completed,2,South,
+T003,CUST103,2025-11-13,245.75,Debit Card,Pending,3,East,
+T004,CUST104,2025-11-12,67.25,Credit Card,Completed,1,West,Early morning order
+T005,CUST105,2025-11-11,156.00,Bank Transfer,,2,North,Awaiting confirmation
+T006,CUST106,2025-11-10,98.50,Credit Card,Completed,4,South,Bulk purchase
+T007,CUST107,2025-11-09,234.80,PayPal,Failed,2,East,Payment declined
+T008,CUST108,2025-11-08,45.25,Credit Card,Completed,1,West,
+T009,,2025-11-07,120.00,Debit Card,Completed,2,North,Guest checkout
+T010,CUST110,2025-11-06,567.89,Credit Card,Completed,5,South,Large order
+T011,CUST111,2025-11-05,87.50,PayPal,Pending,2,East,Pending payment
+T012,CUST112,2025-11-04,210.30,Bank Transfer,Completed,3,West,
+T013,CUST113,2025-11-03,56.75,Credit Card,Completed,1,North,Discount applied
+T014,CUST114,2025-11-02,NULL,Credit Card,Cancelled,0,South,Customer request
+T015,CUST115,2025-11-01,145.20,PayPal,Completed,2,East,Birthday month

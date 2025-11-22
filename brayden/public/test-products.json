@@ -1,0 +1,112 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 1299.99,
+    "quantity_in_stock": 45,
+    "last_restocked": "2025-10-15",
+    "supplier": "TechCorp Inc",
+    "rating": 4.8,
+    "total_sold": 325
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 29.99,
+    "quantity_in_stock": 0,
+    "last_restocked": "2025-08-20",
+    "supplier": "PeripheralPro",
+    "rating": 4.5,
+    "total_sold": 1250
+  },
+  {
+    "product_id": "P003",
+    "product_name": "USB-C Cable",
+    "category": "Cables",
+    "price": 15.99,
+    "quantity_in_stock": 890,
+    "last_restocked": "2025-11-01",
+    "supplier": "CableWorks",
+    "rating": 4.6,
+    "total_sold": 5680
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Monitor 4K",
+    "category": "Electronics",
+    "price": 599.99,
+    "quantity_in_stock": 12,
+    "last_restocked": "2025-09-10",
+    "supplier": "DisplayMaster",
+    "rating": 4.9,
+    "total_sold": 189
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 129.99,
+    "quantity_in_stock": null,
+    "last_restocked": "2025-07-05",
+    "supplier": "KeyboardCraft",
+    "rating": 4.7,
+    "total_sold": 542
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Webcam HD",
+    "category": "Electronics",
+    "price": 79.99,
+    "quantity_in_stock": 34,
+    "last_restocked": "2025-10-22",
+    "supplier": "CamTech",
+    "rating": 4.3,
+    "total_sold": 287
+  },
+  {
+    "product_id": "P007",
+    "product_name": "HDMI Cable",
+    "category": "Cables",
+    "price": 12.99,
+    "quantity_in_stock": 1200,
+    "last_restocked": "2025-11-05",
+    "supplier": "CableWorks",
+    "rating": 4.4,
+    "total_sold": 8932
+  },
+  {
+    "product_id": "P008",
+    "product_name": "External SSD",
+    "category": "Storage",
+    "price": 159.99,
+    "quantity_in_stock": 56,
+    "last_restocked": "2025-09-30",
+    "supplier": "StoragePlus",
+    "rating": 4.8,
+    "total_sold": 723
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Phone Charger",
+    "category": "Accessories",
+    "price": 19.99,
+    "quantity_in_stock": 234,
+    "last_restocked": "2025-10-18",
+    "supplier": "PowerTech",
+    "rating": 4.2,
+    "total_sold": 3456
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 49.99,
+    "quantity_in_stock": 78,
+    "last_restocked": "2025-11-08",
+    "supplier": "ErgoWorks",
+    "rating": 4.6,
+    "total_sold": 445
+  }
+]

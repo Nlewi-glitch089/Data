@@ -1,0 +1,16 @@
+name,age,email,salary,department,hire_date,performance_score,is_active
+John Smith,32,john.smith@company.com,75000,Sales,2019-03-15,8.5,true
+Jane Doe,28,jane.doe@company.com,82000,Marketing,2020-06-01,9.2,true
+Bob Johnson,45,bob.johnson@company.com,95000,Engineering,2015-01-10,7.8,true
+Alice Brown,35,alice.brown@company.com,88000,Finance,,8.9,true
+Charlie Wilson,29,charlie@company,71000,Sales,2021-02-20,6.5,false
+Diana Prince,38,diana.prince@company.com,92000,Engineering,2018-09-05,9.1,true
+Eve Davis,31,,85000,Marketing,2020-11-12,8.3,true
+Frank Miller,55,frank.miller@company.com,105000,Management,2010-05-18,7.9,true
+Grace Lee,26,grace.lee@company.com,68000,Sales,2022-01-30,7.2,true
+Henry Chen,42,henry.chen@company.com,98000,Engineering,2016-07-22,8.7,true
+Iris Johnson,30,iris.johnson@company.com,80000,Sales,2021-04-15,8.1,true
+Jack White,33,jack.white@company.com,86000,Finance,2019-08-09,,true
+Karen Black,29,karen.black@company.com,79000,Marketing,2020-12-01,8.8,true
+Leo Martinez,48,leo.martinez@company.com,102000,Management,2012-03-20,8.2,false
+Mona Lisa,25,mona.lisa@company.com,65000,Sales,2022-09-01,6.8,true
